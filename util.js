@@ -6,3 +6,5 @@ function foo() {
 }
 
 console.log("ok");
+
+55555
