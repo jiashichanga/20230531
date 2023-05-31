@@ -8,3 +8,4 @@ function foo() {
 console.log("ok");
 
 55555
+666-remote
