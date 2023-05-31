@@ -8,3 +8,5 @@ function foo() {
 console.log("ok");
 
 console.log(444);
+55555;
+console.log(6666);
