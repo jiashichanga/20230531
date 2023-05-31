@@ -6,3 +6,5 @@ function foo() {
 }
 
 console.log("ok");
+
+console.log(444);
